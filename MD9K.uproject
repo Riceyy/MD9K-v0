@@ -25,6 +25,11 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "MultiplayerCombatEditor",
+			"Enabled": true,
+			"MarketplaceURL": "http://yun-kun.wixsite.com/usingmce"
 		}
 	]
 }
