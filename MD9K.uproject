@@ -19,10 +19,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
@@ -33,6 +29,29 @@
 		},
 		{
 			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemAmazon",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
 	]
